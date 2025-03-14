@@ -4,6 +4,8 @@
 - Mean
 - Median
 - Mode
+
+## Other metrics
 - Percentile
 - Quartiles (Q1, Q2, Q3)
 - Interquartile range (IQR = Q3 - Q1)
